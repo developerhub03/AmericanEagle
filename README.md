@@ -1,6 +1,6 @@
 # AmericanEagle
 
-#Find the Politician
+# Find the Politician
 Description:
 Suppose you are at a party with n people (labeled from 0 to n - 1), and among them, there may exist one politician. The definition of a politician is that all the other n - 1 people know him/her, but he/she does not know any of them.
 Now you want to find out who the politician is or verify that there is not one. The only thing you are allowed to do is to ask questions like: "Hi, A. Do you know B?" to get information about whether A knows B. You need to find out the politician (or verify there is not one) by asking as few questions as possible (in the asymptotic sense).
@@ -22,7 +22,7 @@ Constraints:
 • graph[i][i] == 1
 
 
-#Running Program:
+# Running Program:
 1) Run the PoliticianProblem.java file as regular java file and then give the input to code as below
 Input to the Code:
 4
