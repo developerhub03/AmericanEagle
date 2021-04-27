@@ -24,9 +24,9 @@ Constraints:
 
 # Running Program:
 1) Run the PoliticianProblem.java file as regular java file and then give the input to code as below
-Input to the Code:
-4
-0 0 1 0
-0 0 1 0
-0 0 1 0
+Input to the Code:  
+4  
+0 0 1 0  
+0 0 1 0  
+0 0 1 0  
 0 0 1 0
