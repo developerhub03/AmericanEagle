@@ -13,8 +13,7 @@ public class PoliticianProblem {
 		return res;
 	}
 
-	// Returns -1 if celebrity is not present. If present, returns id (value from 0
-	// to n-1).
+	// Returns -1 if celebrity is not present. If present, returns id (value from 0 to n-1).
 	static int findPolitician(int n) {
 		Stack<Integer> st = new Stack<>();
 		int c;
